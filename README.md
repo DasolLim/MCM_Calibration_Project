@@ -1,4 +1,4 @@
-# MCMCalibrationProject
+# MCM Calibration Project
 
 ![image](https://github.com/DasolLim/MCMCalibrationProject/assets/92288227/f3fc9ee7-62be-4368-8132-672bb52455a8)
 
