@@ -1,4 +1,7 @@
 # MCMCalibrationProject
+
+![image](https://github.com/DasolLim/MCMCalibrationProject/assets/92288227/3f5698cd-f116-4b0f-a902-b47cacce1316)
+
 ## Description:
 Elkor Technologies Modbus Commander Input Card Calibration Plugin Project
 
