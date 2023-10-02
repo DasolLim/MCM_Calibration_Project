@@ -47,4 +47,5 @@ Load dacCalibration.csv and write to DAC
 InputCardCalibrationForm.cs
 InputCardCalibrationForm.Designer.cs
 InputCardCalibrationForm.cs[Design]
+InputCardCalibrationForm.resx
 
