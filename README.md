@@ -51,5 +51,3 @@ InputCardCalibrationForm.Designer.cs
 InputCardCalibrationForm.cs[Design]
 
 InputCardCalibrationForm.resx
-
-
